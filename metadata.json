@@ -1,0 +1,4 @@
+{
+  "name": "Reynolds Experiment Simulator",
+  "description": "Interactive simulation of the Osborne Reynolds experiment to visualize Laminar, Transitional, and Turbulent flow regimes in a pipe based on experimental data."
+}
